@@ -25,10 +25,11 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+  - name:           "Home Page"
+    href:           "//franklinantony.me/" 
+                   
+  - name:           "Coming Soon"
+    href:           ""
 
 # Sass
 sass:
