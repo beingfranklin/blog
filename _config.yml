@@ -1,31 +1,55 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
 
-title: Franklin's Blog
-email: franklinanton.007@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# Basic
+name:               "Franklin Antony"
+description:        "the writings of a developer."
 
-baseurl: "/blog"
-production_url : http://beingfranklin.github.io.com/blog
-BASE_PATH : http://franklinantony.me/blog
-twitter_username: beingfranklin
-github_username:  beingfranklin
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+url:                "//franklinantony.me/blog"
+author:             "beingfranklin"
+twitter:
+  username:         "beingfranklin"
+#facebook:
+#  app_id:           1234
+#    publisher:      1234
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# URL
+baseurl:            "/blog"
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title/
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Markdown
+markdown:           kramdown
+
+# Navigation
+nav:
+  - name:           "About"
+    href:           "//kiko.gfjaru.com/about"
+  - name:           "Download"
+    href:           "//github.com/gfjaru/Kiko/releases"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+- jekyll-seo-tag
+
+
