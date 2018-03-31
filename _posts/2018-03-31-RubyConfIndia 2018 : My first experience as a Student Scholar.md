@@ -2,7 +2,6 @@
 published: true
 ---
 
-
 I recently started to learn ruby and I was really interested in the simplicity and powerfulness of this language. Well, I am not here to boast about the splendid features of ruby.  So let move on to the Scholarship part.
 
 Its during that time I heard about RubyConfIndia, the annual Ruby Conference. I googled about it and found that last time it was held in Kochi, the place where I was studying. And the most interesting thing I noticed was that it had a rich list of speakers and dignitaries that included the creator of ruby, [Yukihiro Matsumoto](https://twitter.com/yukihiro_matz "Yukihiro Matsumoto Twitter"), himself.
