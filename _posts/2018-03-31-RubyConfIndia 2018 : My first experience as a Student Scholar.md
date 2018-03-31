@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## RubyConfIndia 2018 : My first experience as a Student Scholar
+
 
 I recently started to learn ruby and I was really interested in the simplicity and powerfulness of this language. Well, I am not here to boast about the splendid features of ruby.  So let move on to the Scholarship part.
 
