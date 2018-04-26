@@ -21,7 +21,10 @@ a {
     border-bottom: 3px solid #7ef1f9;
     position: relative;
 }
-a:hover{color:#7ef1f9}
+a:hover {
+    background-color: #7ef1f9;
+    border-bottom: 3px solid #0151ba;
+}
 html {
   font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
@@ -40,15 +43,7 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
-a {
-  //color: #268bd2;
-  text-decoration: none;
 
-  &:hover,
-  &:focus {
-    text-decoration: underline;
-  }
-}
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
