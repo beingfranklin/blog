@@ -18,6 +18,10 @@ Wow !!  I couldn't believe it. I read the mail again and again. I (kind of) had 
 
 I reached Bangalore the previous day and I had enough time to reach the venue on time. I registered and was super excited. I met many people and that was the best thing I did in that two days.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">All set! Ready to Rock N Roll ..😎 <a href="https://twitter.com/hashtag/RCI18?src=hash&amp;ref_src=twsrc%5Etfw">#RCI18</a> <a href="https://twitter.com/hashtag/RubyConfIndia?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConfIndia</a> <a href="https://t.co/wHM8CYUQKa">pic.twitter.com/wHM8CYUQKa</a></p>&mdash; Franklin Antony (@beingfranklin) <a href="https://twitter.com/beingfranklin/status/961812922589577217?ref_src=twsrc%5Etfw">February 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 The conference had good keynotes from all speakers. And even though I couldn't get everything from them I understood one thing, they were **the best** in their fields.
 
 In between the breaks I met Avdi Grimm, Zach Holman, Elle Meredith and her cute lil baby, Hari Shankar, Aboobacker MK, Balasankar C, Tony Vincent and many others. I also met with my fellow student scholars and other student scholars from Kerala. It was a super good experience.
