@@ -23,14 +23,13 @@ a {
 }
 a:hover {
     background-color: #7ef1f9;
-    border-bottom: 3px solid #0151ba;\a:hover {
-    background-color: #7ef1f9;
     border-bottom: 3px solid #0151ba;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     transition: all .3s ease;
 }
-}
+
+.list-post-title a{border-bottom:none;}
 html {
   font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
@@ -41,7 +40,6 @@ html {
     font-size: 20px;
   }
 }
-.list-post-title a{border-bottom:none;}
 body {
   color: #515151;
   background-color: #fff;
