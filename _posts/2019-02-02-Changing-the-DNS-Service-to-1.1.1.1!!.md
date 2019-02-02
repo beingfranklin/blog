@@ -7,7 +7,11 @@ The DNS resolvers play a major role in the whole internet lookup process. The be
 
 ## Privacy? What?
 
-Yeah, the official [cloudflare blog](https://blog.cloudflare.com/announcing-1111/) claims to be privacy first DNS resolver. The privacy can be a huge issue as it can be used for a tool for censorship and even some of the ISPs are said to be selling the data of their users
+Yeah, the official [cloudflare blog](https://blog.cloudflare.com/announcing-1111/) claims to be privacy first DNS resolver. The privacy can be a huge issue as it can be used for a tool for censorship and even some of the ISPs are said to be selling the data of their users which is kind of creepy. So these DNS resolvers can be used to certain limit to avoid these issues.
+
+## Speed?
+
+According to the [official website](http://1.1.1.1) they are said to be leading than many of the other prominent players. Many people had various opinions about this. This [blog post](https://medium.com/@nykolas.z/dns-resolvers-performance-compared-cloudflare-x-google-x-quad9-x-opendns-149e803734e5) 
 
 ## Setting it Up
 
