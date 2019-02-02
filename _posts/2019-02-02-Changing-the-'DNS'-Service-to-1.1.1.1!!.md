@@ -15,5 +15,7 @@ According to the [official website](http://1.1.1.1) they are said to be leading 
 
 ## Setting it Up
 
+![]({{site.baseurl}}/images/Screenshot%202019-02-01%20at%208.41.13%20AM.png)
+
 ![Screenshot 2019-02-01 at 8.41.13 AM.png]({{site.baseurl}}/_posts/Screenshot 2019-02-01 at 8.41.13 AM.png)
 
