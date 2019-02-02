@@ -21,15 +21,22 @@ Its very easy to setup in your device. For most of the computers, you just need 
 	1.1.1.1	
 Add the below to avoid any redundancy
 
-    1.0.0.1
+	1.0.0.1
 We have to add this one
 
     2606:4700:4700::1111  
 and this one too for avoiding the conflicts.
 
-    2606:4700:4700::1001 	
+	2606:4700:4700::1001 	
+
+You can configure your Mac like the screenshot below
 
 ![Setting Up in Mac](https://raw.githubusercontent.com/beingfranklin/blog/gh-pages/_posts/Screenshot%202019-02-01%20at%208.41.13%20AM.png)
 
 
 For Mobile devices they have an app which has the VPN features and uses their DNS instead. So it is helpful in places like India where the majority of the people rely upon the mobile data over WIFI for the internet.
+
+
+## My Thoughts
+
+I had configured tmy Wifi settings accordingly and I have noticed slight increase in loading time after I type some web address and hit enter. These are not so noticeable like they claim for me as such, but there is some improvement, thats for sure!
