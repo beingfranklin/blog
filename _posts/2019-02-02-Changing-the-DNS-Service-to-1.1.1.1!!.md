@@ -11,10 +11,9 @@ Yeah, the official [cloudflare blog](https://blog.cloudflare.com/announcing-1111
 
 ## Speed?
 
-According to the [official website](http://1.1.1.1) they are said to be leading than many of the other prominent players. Many people had various opinions about this. This [blog post](https://medium.com/@nykolas.z/dns-resolvers-performance-compared-cloudflare-x-google-x-quad9-x-opendns-149e803734e5) 
+According to the [official website](http://1.1.1.1) they are said to be leading than many of the other prominent players. Many people had various opinions about this. This [blog post](https://medium.com/@nykolas.z/dns-resolvers-performance-compared-cloudflare-x-google-x-quad9-x-opendns-149e803734e5) explains the speed differences
 
 ## Setting it Up
 
 ![Screenshot 2019-02-01 at 8.41.13 AM.png]({{site.baseurl}}/_posts/Screenshot 2019-02-01 at 8.41.13 AM.png)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
