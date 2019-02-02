@@ -26,7 +26,7 @@ So I thought to give it a try.
 
 Its very easy to setup in your device. Depending upon your connection we have to set up it accordingly.
 
-### For Computers 💻 (COnfiguring Wifi)
+### For Computers 💻 (Configuring Wifi)
 
 For most of the computers, you just need to change the DNS from the advanced menu settings. Add the below to avoid any redundancy and conflicts. Its for both IPv4 and IPv6.
 
