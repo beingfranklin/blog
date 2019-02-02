@@ -18,10 +18,10 @@ According to the [official website](http://1.1.1.1) they are said to be leading 
 
 Its very easy to setup in your device. For most of the computers, you just need to change the DNS from the advanced menu settings.
 
-	~~~~ 1.1.1.1	~~~~ 
-	~~~~ 1.0.0.1	~~~~ 
-	~~~~ 2606:4700:4700::1111 	~~~~ 
-	~~~~ 2606:4700:4700::1001 	~~~~ 
+	1.1.1.1	
+	1.0.0.1
+	2606:4700:4700::1111  
+	2606:4700:4700::1001 	
 
 ![Setting Up in Mac](https://raw.githubusercontent.com/beingfranklin/blog/gh-pages/_posts/Screenshot%202019-02-01%20at%208.41.13%20AM.png)
 
