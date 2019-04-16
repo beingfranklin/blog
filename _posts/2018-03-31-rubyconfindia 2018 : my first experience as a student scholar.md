@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 I recently started to learn Ruby and I was really interested in the simplicity and powerfulness of this language. Well, I am not here to boast about the splendid features of ruby.  So let move on to the Scholarship part.
