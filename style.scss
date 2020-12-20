@@ -15,10 +15,13 @@ body {
   margin: 0;
   padding: 0;
 }
+.masthead-title a {
+    color: #333;
+    background-color: white;
+}
 a {
     color: #0151ba;
     text-decoration: none;
-    //border-bottom: 3px solid #7ef1f9;
     position: relative;
 }
 a:hover {
@@ -28,6 +31,7 @@ a:hover {
     -moz-transition: all .3s ease;
     transition: all .3s ease;
 }
+
 .masthead-title a {
     color: #333;
     background-color: white;
