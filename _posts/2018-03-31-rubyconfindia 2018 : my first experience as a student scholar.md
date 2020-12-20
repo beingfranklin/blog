@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 I recently started learning Ruby and I was really interested in the simplicity and powerful features of this language. I was really curious about the Homebrew, the package manager for mac. I became more curious when I came to know that it was written in Ruby as well. Thats how it all began. Then I tried to read and understand more about Ruby, I found that its one of the most underrated programming languages. I knew that people used Rails for app development but stilL, according to me it was much more than a web devlopment framework.

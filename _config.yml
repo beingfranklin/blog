@@ -52,3 +52,5 @@ gems:
 
 comments: true
 
+
+theme: jekyll-theme-hacker
